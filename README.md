@@ -1,2 +1,2 @@
-# Antigens-and-Trisaccharides
+# Antigens-and- Lewis Trisaccharides
 In this project, we explored the potential of machine learning using solid-state graphene nanogap for the identification of complex trisaccharides. Using the signature transmission readouts for each, we have tried to identify the glycans with moderate sensitivity and selectivity. To attain a rapid and accurate identification of our target molecules, we coupled the approach with explainable ML classification tools, which enabled the identification with good precision and accuracy. Integrating with the best-fitted  RFC model, the graphene nanogap achieves good classification accuracy of up to 100%, considering a wide range of orientations. 
